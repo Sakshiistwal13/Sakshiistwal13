@@ -32,6 +32,12 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat-square&logo=plotly&logoColor=white)
 
+## 📜 Certifications:
+- Microsoft Certified Data Analyst Associate  
+- Google Data Analytics Professional Certificate  
+- Power BI Advanced Certification
+- HackerRank certified SQL(Intermediate)
+- 5-star Gold Badge in SQL on HackerRank
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sakshiistwal13&show_icons=true&locale=en&layout=compact" alt="sakshiistwal13" /></p>
 
