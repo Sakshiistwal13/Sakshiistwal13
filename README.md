@@ -32,6 +32,10 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat-square&logo=plotly&logoColor=white)
 
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sakshiistwal13&show_icons=true&locale=en" alt="sakshiistwal13" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sakshiistwal13&" alt="sakshiistwal13" /></p>
 <!--
 **Sakshiistwal13/Sakshiistwal13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
