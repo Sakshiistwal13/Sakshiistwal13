@@ -6,11 +6,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakshiistwal13&label=Profile%20views&color=0e75b6&style=flat" alt="sakshiistwal13" /> </p>
 
-- 🌱 I’m currently learning **Frameworks, Python**
+- 🎯 Passionate about converting data into insights and building frameworks for decision-making.
+  
+- 🤝 I'm looking to collaborate on Datasets for Analysis and Visualization projects.
+
+- 🌱 I’m currently learning **Python** and **Machine Learning**
 
 - 📫 How to reach me **sakshi.istwal13@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact **I think I am funny :)**
+  
+- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,7 +32,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sakshiistwal13&show_icons=true&locale=en" alt="sakshiistwal13" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sakshiistwal13&" alt="sakshiistwal13" /></p>## Hi there 👋
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sakshiistwal13&" alt="sakshiistwal13" /></p>
 
 <!--
 **Sakshiistwal13/Sakshiistwal13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
