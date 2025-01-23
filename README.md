@@ -40,7 +40,6 @@
 - 5-star Gold Badge in SQL on HackerRank
 
 
-![Banner](file:///C:/Users/Victus/Downloads/DALL%C2%B7E%202025-01-19%2012.57.36%20-%20A%20modern%20and%20visually%20appealing%20banner%20design%20for%20a%20GitHub%20profile,%20featuring%20the%20text%20'Sakshi%20Istwal'%20in%20bold%20and%20stylish%20typography.%20Include%20icons%20r.webp)
 
 <!--
 **Sakshiistwal13/Sakshiistwal13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
