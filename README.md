@@ -33,9 +33,9 @@
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat-square&logo=plotly&logoColor=white)
 
 ## 📜 Certifications:
-- Microsoft Certified Data Analyst Associate  
+- Microsoft Power BI Data Analyst Specialization 
 - Google Data Analytics Professional Certificate  
-- Power BI Advanced Certification
+- IBM Data Analysis with Python Certificate
 - HackerRank certified SQL(Intermediate)
 - 5-star Gold Badge in SQL on HackerRank
 
