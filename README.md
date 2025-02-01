@@ -38,6 +38,7 @@
 - IBM Data Analysis with Python Certificate
 - HackerRank certified SQL(Intermediate)
 - 5-star Gold Badge in SQL on HackerRank
+- Google Data Analysis with R
 
 
 
