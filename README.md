@@ -36,9 +36,9 @@
 - Microsoft **Power BI** Data Analyst Specialization 
 - **Google Data Analytics** Professional Certificate  
 - **IBM** Data Analysis with **Python** Certificate
-- HackerRank certified SQL(Intermediate)
-- 5-star Gold Badge in SQL on HackerRank
-- Google Data Analysis with R
+- HackerRank certified **SQL(Intermediate)** & **SQL(Basic)**
+- **5-star Gold Badge** in SQL on **HackerRank**
+- Google **Data Analysis with R** Programming
 
 
 
