@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Sakshi Istwal</h1>
-<h3 align="center">A passionate data enthusiast from India</h3>
+<h3 align="center">A passionate data enthusiast from Mumbai, India</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/69220037/203141922-dc941a18-63f5-4c8a-9013-86ce406f471d.gif">
 
 
