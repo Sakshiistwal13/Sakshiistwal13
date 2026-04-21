@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Sakshi Istwal</h1>
-<h3 align="center">A passionate data enthusiast from Mumbai, India</h3>
+<h3 align="center">A Data Analytics Apprentice working at Google, India</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/69220037/203141922-dc941a18-63f5-4c8a-9013-86ce406f471d.gif">
 
 
@@ -10,7 +10,7 @@
   
 - 🤝 I'm looking to collaborate on Datasets for Analysis and Visualization projects.
 
-- 🌱 I’m currently learning **Python** and **Machine Learning**
+- 🌱 I’m currently learning **Machine Learning** and **Agentic AI**
 
 - 📫 How to reach me **sakshi.istwal13@gmail.com**
 
